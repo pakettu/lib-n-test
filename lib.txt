@@ -1,0 +1,36 @@
+bitsetD
+
+составляющие:
+size
+bits_
+
+конструкторы:
+
+
+подклассы:
+bitProx
+bitProxC - const
+
+функции:
+resize
+get(int idx)
+set(int idx, bool val)
+invert
+fill()
+shift
+
+операторы:
+с ссылкой, присваивание:
+<<=
+>>=
+&=
+|=
+^=
+________
+прост
+inline ~
+<<
+>>
+&
+|
+^

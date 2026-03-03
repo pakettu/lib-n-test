@@ -1,0 +1,14 @@
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/lib/bitsetD/CMakeFiles/bitsetD_cpp.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/lib/bitsetD/CMakeFiles/bitsetD.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/lib/bitsetD/CMakeFiles/edit_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/lib/bitsetD/CMakeFiles/rebuild_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/test/CMakeFiles/test.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/doctest/CMakeFiles/doc_t.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/doctest/CMakeFiles/edit_cache.dir
+C:/Users/test/CLionProjects/bitsetD_1/cmake-build-debug/doctest/CMakeFiles/rebuild_cache.dir
