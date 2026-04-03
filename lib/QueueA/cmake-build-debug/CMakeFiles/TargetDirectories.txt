@@ -1,0 +1,3 @@
+C:/Users/test/CLionProjects/QueueA/cmake-build-debug/CMakeFiles/QueueA.dir
+C:/Users/test/CLionProjects/QueueA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/test/CLionProjects/QueueA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
